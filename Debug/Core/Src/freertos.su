@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:65:5:_write	24	static
+../Core/Src/freertos.c:95:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:109:6:MX_FREERTOS_Init	112	static
+../Core/Src/freertos.c:160:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:178:6:read_RFID	24	static
+../Core/Src/freertos.c:205:6:move_conveyor	16	static
